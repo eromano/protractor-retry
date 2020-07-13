@@ -45,7 +45,7 @@
     "jasmine-expect": "^4.0.3",
     "mocha": "^7.1.0",
     "protractor": "^5.4.3",
-    "standard-version": "^7.1.0"
+    "standard-version": "^8.0.1"
   },
   "keywords": [
     "protractor",
